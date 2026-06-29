@@ -49,8 +49,8 @@ The dataset contains order-level information, including Order ID, Order Date, Cu
 
 ## 📁 Project Structure
 ```text
-├── Amazon_Sales_Dataset.xlsx
-├── DevTown_Bootcamp_Naema.ipynb
+├── amazon.xlsx
+├── Business Analysis.ipynb
 └── README.md
 ```
 
